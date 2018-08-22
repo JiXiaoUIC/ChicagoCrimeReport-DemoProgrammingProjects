@@ -1,4 +1,4 @@
-# Ji_Xiao-DemoProgrammingProjects
+# Ji_Xiao-ProgrammingProjects
 
 This project is going to analyze crime report,
 First import crimes code .csv file,
